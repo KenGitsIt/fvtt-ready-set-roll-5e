@@ -51,9 +51,9 @@
 			}
 		]
 	},
-	"url": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e",
-	"manifest": "https://raw.githubusercontent.com/MangoFVTT/fvtt-ready-set-roll-5e/master/module.json",
-	"download": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/releases/download/release-3.4.10/rsr5e-release-3.4.10.zip",
-	"bugs": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/issues",
-	"readme": "https://github.com/MangoFVTT/fvtt-ready-set-roll-5e/blob/master/README.md"
+	"url": "https://github.com/KenGitsIt/fvtt-ready-set-roll-5e",
+	"manifest": "https://raw.githubusercontent.com/KenGitsIt/fvtt-ready-set-roll-5e/master/module.json",
+	"download": "https://github.com/KenGitsIt/fvtt-ready-set-roll-5e/releases/download/release-3.4.10/rsr5e-release-3.4.10.zip",
+	"bugs": "https://github.com/KenGitsIt/fvtt-ready-set-roll-5e/issues",
+	"readme": "https://github.com/KenGitsIt/fvtt-ready-set-roll-5e/blob/master/README.md"
 }
